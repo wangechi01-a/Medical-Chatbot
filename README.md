@@ -1,6 +1,6 @@
 # Medical Chatbot
 
-This project is an AI-powered medical chatbot designed to answer health-related questions accurately and concisely. Built using **LangChain**, **FAISS**, and **Hugging Face embeddings**, the chatbot retrieves relevant information from a curated database of trusted medical documents and delivers responses in real-time. It’s optimized for CPU usage, making it deployable on local machines and adaptable to various environments.
+This project is an AI-powered medical chatbot designed to provide accurate and concise answers to health-related queries. The chatbot uses LangChain, FAISS, and Hugging Face embeddings to retrieve relevant information from a curated set of trusted medical documents. It utilizes TheBloke/Llama-2-7B-Chat-GGML, a high-performance language model, to generate responses in real-time, optimized for CPU usage for flexibility in deployment.
 
 ## Table of Contents
 
